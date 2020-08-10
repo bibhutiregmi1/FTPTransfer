@@ -1,0 +1,13 @@
+SystemId,Field,Value
+1,Id,101
+1,Title,Product 1
+1,Price,100
+1,Rating,2 of 5
+2,Id,102
+2,Title,Product 2
+2,Price,120
+2,Rating,3 of 5
+3,Id,103
+3,Title,Product 3
+3,Price,150
+3,Rating,3 of 5
